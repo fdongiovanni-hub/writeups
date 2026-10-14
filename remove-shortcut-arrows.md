@@ -2,8 +2,6 @@
 
 A quick guide to hiding the shortcut arrow icon on the Windows Desktop by replacing it with a transparent icon via the System Registry.
 
-## How it works
-
 1. **Opened the Registry Editor (`regedit`)**  
    Accesses the Windows central database, which contains all settings, preferences, and configs for the OS and installed programs.
 
